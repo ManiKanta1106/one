@@ -571,7 +571,7 @@
         <section class="hero" role="img" aria-label="Hero banner">
             <div class="container">
                 <h1>My New Collections — Premium Picks</h1>
-                <h5> Lets design your own style. Discover New fashion and look unique</h5>
+                <h3> Lets design your own style. Discover New fashion and look unique</h3>
                 <div>
                     <button class="btn btn-primary" id="shopNow">Shop Now <em class="fas fa-arrow-right"></em></button>
                     <button class="btn btn-ghost" id="exploreDeals">Explore Deals</button>
